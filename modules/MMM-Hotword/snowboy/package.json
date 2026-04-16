@@ -28,8 +28,8 @@
   "gypfile": true,
   "license": "Apache-2.0",
   "dependencies": {
-    "electron-rebuild": "^1.8.8",
-    "node-pre-gyp": "^0.6.39"
+    "electron-rebuild": "^3.2.9",
+    "node-pre-gyp": "^0.17.0"
   },
   "devDependencies": {
     "@types/node": "^6.0.38",
